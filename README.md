@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hola! me llamo Junior Herrera me da gusto que estes en mi perfil!
+</h2>
+<h3>Soy una persona amable, sociable, que le gustan los retos, trabajar en equipo discutiendo y buscando la mejor solución para un problema
+
+En mi perfil encontraras mi proceso, paso a paso. Y lo mejor es que yo trato de aplicar los conocimientos que voy adquiriendo en los proyectos personales. Te invito a seguirme en mis redes sociales para estar al tanto de mi avance, que esperas? animate para que avancemos TODOS.</h3>
 
 ###
 
